@@ -1,0 +1,9 @@
+torch>=0.4.1 # for out of date CUDA versions, go to https://pytorch.org/ to install torch
+torchvision
+numpy
+matplotlib
+h5py
+argcomplete
+pandas
+setuptools
+pyyaml
